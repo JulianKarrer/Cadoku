@@ -1,14 +1,26 @@
-# CADOKU
+# Cadoku!
+
+<p align="center">
+<img  src="assets/feature-graphic.jpg">
+</p>
+
 
 A cozy, cat-themed and marshmallow-coloured Sudoku app.
 
 Efficiently generates puzzles of varying difficulty that are guaranteed to be solvable without guessing by using recursive constraint propagation as suggested by [Peter Norvig](http://norvig.com/sudoku.html)
 <p align="center">
-<img  src="screenshots/home.jpg" width="300">  <img  src="screenshots/puzzle.jpg" width="300">
+<img  src="screenshots/16x9/home9x16.jpg" width="300">  
+<img  src="screenshots/16x9/hearts9x16.jpg" width="300">
+<img  src="screenshots/16x9/fireworks9x16.jpg" width="300">
 </p>
 
 
 Tip: Try petting the cat to see a surprise
+
+## Download
+Available for Android on [Google Play](https://play.google.com/store/apps/details?id=com.cadoku)
+
+Or build your own version by cloning this repository
 
 ## Developing
 
@@ -24,3 +36,6 @@ newArchEnabled=false
 hermesEnabled=true
 ```
 as well as rename `android/app/build copy.gradle` to `android/app/build.gradle`
+
+## Privacy Note
+[We don't collect data.](https://juliankarrer.github.io/Cadoku/)
