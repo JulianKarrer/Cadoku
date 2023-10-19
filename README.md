@@ -9,9 +9,9 @@ A cozy, cat-themed and marshmallow-coloured Sudoku app.
 
 Efficiently generates puzzles of varying difficulty that are guaranteed to be solvable without guessing by using recursive constraint propagation as suggested by [Peter Norvig](http://norvig.com/sudoku.html)
 <p align="center">
-<img  src="screenshots/16x9/home9x16.jpg" width="300">  
-<img  src="screenshots/16x9/hearts9x16.jpg" width="300">
-<img  src="screenshots/16x9/fireworks9x16.jpg" width="300">
+<img  src="screenshots/16x9/home9x16.jpg" width="250">  
+<img  src="screenshots/16x9/hearts9x16.jpg" width="250">
+<img  src="screenshots/16x9/fireworks9x16.jpg" width="250">
 </p>
 
 
